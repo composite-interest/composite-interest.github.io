@@ -70,7 +70,7 @@ within a given regulatory and operational context, rather than treating performa
 figures in isolation.
 
 [LinkedIn](https://www.linkedin.com/in/tomasschuller)
-[My CV](https://T-Schuller.github.io)
+[My CV](https://T-Schuller.github.io/resume-cv/)
 
 ### Full Name  
 *Primary discipline or role*
