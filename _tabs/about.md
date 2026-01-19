@@ -19,8 +19,6 @@ Topics include:
 - Regulation-driven design
 - Historic and modern case studies across categories
 
-Whenever possible, articles are structured **front to back**, moving from individual
-components to full-vehicle behaviour.
 
 ---
 
@@ -60,12 +58,12 @@ detailed CAD. He graduated with distinction on his PhD from U.Porto, working on 
 dynamics and geometry optimization.
 
 His work typically focuses on:
-- Aerodynamic architecture and flow control
-- Front-to-rear vehicle integration
-- Trade-offs between peak performance, robustness, and regulatory constraints
-- Endurance and race-relevant operating conditions
+- Aerodynamic architecture and airflow control
+- Vehicle component integration
+- Cooling and powertrain ancilliaries
+- Technical documentation
 
-He is particularly interested in analysing **why** specific design solutions emerge
+He is particularly interested in analysing why specific design solutions emerge
 within a given regulatory and operational context, rather than treating performance
 figures in isolation.
 
@@ -103,6 +101,5 @@ tend to explore in their work].
 ## Contact and contributions
 
 If you are interested in contributing, collaborating, or suggesting topics, you can reach
-us via the repository or the contact details linked on the site.
+us via the the contact details linked on the site.
 
-We welcome technically grounded contributions.
